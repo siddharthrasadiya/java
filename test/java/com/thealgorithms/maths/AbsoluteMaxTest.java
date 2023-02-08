@@ -22,3 +22,4 @@ public class AbsoluteMaxTest {
         assertEquals("Numbers array cannot be empty", exception.getMessage());
     }
 }
+// djgfjjfljhfldjhjlfj
